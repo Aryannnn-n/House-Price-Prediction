@@ -1,0 +1,9 @@
+{
+  "r2_score": 0.8743643883800757,
+  "mae": 70002.45453242234,
+  "rmse": 133058.02686661104,
+  "mape": 12.573651015940571,
+  "trained_at": "2025-06-01T15:45:42.587158",
+  "model_type": "RandomForestRegressor",
+  "feature_count": 30
+}
